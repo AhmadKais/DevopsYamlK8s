@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: user-management
-        image: ahmadkais/user-management:latest
+        image: ahmadkais/user-management
         ports:
         - containerPort: 5000
